@@ -5,7 +5,5 @@ public class Main {
 
         double massIndex = service.calculate(77, 1.70); // Вес писать в килограммах, рост в метрах!!!
         System.out.println("Индекс массы: " + massIndex);
-
-
     }
 }
